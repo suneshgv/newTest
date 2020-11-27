@@ -1,5 +1,4 @@
 qaeqwewq qweqwewqewq qwe qwe wqeqwe qweqwe 
-<<<<<<< Updated upstream
 f
 gh
 fgh
@@ -9,8 +8,8 @@ gh
 fgh
 fg
 hg
-=======
 
+<<<<<<< Updated upstream
 fghfgh
 fh
 
@@ -21,3 +20,6 @@ ert443545
 
 
 dgdfg
+=======
+fsdfsdf
+>>>>>>> Stashed changes
